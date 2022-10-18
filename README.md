@@ -1,4 +1,4 @@
-# 100-days-of-code-challenge
+# 100 Days of Code Challenge
 100 Days of Code Challenge 
 
 I'm embarking on my 100 days of code challenge on October 17, 2022 
