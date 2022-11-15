@@ -1,7 +1,7 @@
 # 100 Days of Code Challenge
 100 Days of Code Challenge 
 
-I'm embarking on my 100 days of code challenge on October 17, 2022 
+I'm embarking on my 100 days of code challenge on November 15, 2022 
 
 **Intention:** The purpose of embarking on this challenge is to improve my Python programming skills in order to become a better cloud engineer.
 
@@ -9,6 +9,8 @@ I'm embarking on my 100 days of code challenge on October 17, 2022
 
 **Rules:** 
 
-     1. Code minimum an hour every day for the next 100 days
+     1. Code a minimum of an hour every day for the next 100 days
      2. Tweet my progress every day using the #100DaysOfCode hashtag (@ashlynintech)
      3. Update my GitHub repo daily with my progress 
+
+[Log - Click here to see my progress](https://github.com/ashlyn-musgrave/100-days-of-code-challenge/blob/main/log.md)
