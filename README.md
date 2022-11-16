@@ -1,5 +1,5 @@
-# 100 Days of Code Challenge
-100 Days of Code Challenge 
+# 100 Days of Code Challenge (Python)
+100 Days of Code Challenge (Python)
 
 I'm embarking on my 100 days of code challenge on November 15, 2022 
 
