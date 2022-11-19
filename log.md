@@ -26,3 +26,11 @@
 ##### **Link to work (Guessing Game):** [Click here to see my code](https://github.com/ashlyn-musgrave/100-Days-of-Code-Challenge-Python/blob/main/Day%203%20-%20Guessing%20Game.py)
 ##### **Link to work (Rock/Paper/Scissors Game):** [Click here to see my code](https://github.com/ashlyn-musgrave/100-Days-of-Code-Challenge-Python/blob/main/Day%203%20-%20Rock%20Paper%20Scissors.py)
 
+#### Day 4: November 18, 2022
+
+##### **Today's Progress:** Today I coded an adventure game that leads the player to enter various inputs that takes them on a wild adventure! 
+
+##### **Thoughts:** Although this was probably the easiest game I've coded yet, it was a really fun activity for a Friday night. If you want some insights on my favorite things, give this a read. I promise it'll make you smile and hopefully laugh! 
+
+##### **Link to work:** [Click here to see my code](https://github.com/ashlyn-musgrave/100-Days-of-Code-Challenge-Python/blob/main/Day%204%20-%20Adventure%20Game.py)
+
