@@ -34,3 +34,10 @@
 
 ##### **Link to work:** [Click here to see my code](https://github.com/ashlyn-musgrave/100-Days-of-Code-Challenge-Python/blob/main/Day%204%20-%20Adventure%20Game.py)
 
+#### Day 5: November 20, 2022
+
+##### **Today's Progress:** Today I began coding a username/password manager in Python that includes encrytpion.
+
+##### **Thoughts:** Creating the initial set up for viewing or adding the usernames/passwords made logical sense. I enjoyed experimenting with writing functions. I did however get stuck when importing cryptography in my code. I was able to install it fine in the cmd prompt but when I called it in my code, it returned an error. Will troubleshoot this next time. 
+
+##### **Link to work:** [Click here to see my code](https://github.com/ashlyn-musgrave/100-Days-of-Code-Challenge-Python/blob/main/Day%205%20-%20password_manager.py)
